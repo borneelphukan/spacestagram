@@ -15,8 +15,7 @@ To access this website, you have to create an API key in order to use NASA's API
 2. Please ensure that latest versions of "nodeJs" is installed on the system. "node -v" commands helps in ensuring that they are properly installed on the system.
 3. Use **"cd"** command to change to the project directory.
 4. Run **"npm install"** to install all the dependencies.
-
-Modify the NASA API key value as you need and required before starting in the .env.development.local
+5. Modify the NASA API key value as you need and required before starting in the .env.development.local.
 6. Run **"npm start"** to start a local server
 7. Visit http://localhost:3000/ in the browser to open the app.
 
