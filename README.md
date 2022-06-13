@@ -27,3 +27,6 @@ To access this website, you have to create an API key in order to use NASA's API
 1. Bootstrap
 2. FontAwesome
 3. Axios
+
+## Screenshot :-
+![Screenshot](https://github.com/borneelphukan/spacestagram/blob/main/asset/Screenshot.png)
