@@ -1,6 +1,6 @@
 # Spacestagram 
 
-The main idea behind this project is to build a website for the space junkies out there who can glance at space images all day long. Here anyone can "like", "unlike" or "share" the images fetched from NASA's API. The images fetched here are randomly chosen "Astronomy Picture of Day (APOD)". Respective date and title are mentioned with the image for a better idea. To contribute, checkout the guidelines [here](https://github.com/nishidhaSri/spacestagram/blob/master/CONTRIBUTING.md).
+A web application that fetches the image of the day and its meta-data from the NASA API "Astronomy Picture of Day (APOD)" with the functionality to like or unlike the image.
 
 ## Setting up NASA credentials
 
@@ -15,7 +15,8 @@ To access this website, you have to create an API key in order to use NASA's API
 2. Please ensure that latest versions of "nodeJs" is installed on the system. "node -v" commands helps in ensuring that they are properly installed on the system.
 3. Use **"cd"** command to change to the project directory.
 4. Run **"npm install"** to install all the dependencies.
-5. You will need a **"config.js"** file in the src/ folder for the system to run successfully. An example for the config.js file has been written in exampleConfig.js. Modify the NASA API key value as you need and required before starting. 
+
+Modify the NASA API key value as you need and required before starting in the .env.development.local
 6. Run **"npm start"** to start a local server
 7. Visit http://localhost:3000/ in the browser to open the app.
 
