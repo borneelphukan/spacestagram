@@ -22,7 +22,7 @@ Modify the NASA API key value as you need and required before starting in the .e
 
 ## List of all major libraries used :-
 
-1. ReactJs (Frontend framework)
+1. ReactJS
 
 ## List of all packages used :-
 1. Bootstrap
